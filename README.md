@@ -87,6 +87,7 @@ Key finding: Debt Consolidation carries the highest default risk borrowers alrea
 ## Insight 5 — Loan Grade Does Not Differentiate Risk (Red Flag)
 
 | Loan Grade | Applications | Default Rate |
+
 | A | 15,094 | 22.98% |
 
 | B | 24,896 | 22.90% |
@@ -114,7 +115,9 @@ Key finding: Default rates across all loan grades are nearly identical (22–23.
 
 | Uttar Pradesh | 23.56% |
 
+
 | Lowest Risk States | Default Rate |
+
 
 | Haryana | 22.23% |
 
