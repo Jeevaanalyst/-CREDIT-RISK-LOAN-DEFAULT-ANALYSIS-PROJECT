@@ -108,12 +108,19 @@ Key finding: The 7,296 High Risk customers are defaulting at nearly 60%  approvi
 ## Insight 8 — High Risk Customer Profile (100 deep-dive records)
 
 From the 100 high-risk customer records:
+
 Average credit score: 551 (Poor band)
-Average DTI: 0.997 (Extreme — nearly 100% of income goes to debt)
+
+Average DTI: 0.997 (Extreme: nearly 100% of income goes to debt)
+
 Average default probability: 55.9%
-Average loan amount: ₹18.9 lakh — these are large ticket loans going to the riskiest borrowers
-73% are in Mortgage or Rent— no owned assets as buffer
-47% are Salaried — even stable employment doesn't save them when DTI is extreme
+
+Average loan amount: ₹18.9 lakh : these are large ticket loans going to the riskiest borrowers
+
+73% are in Mortgage or Rent : no owned assets as buffer
+
+47% are Salaried : even stable employment doesn't save them when DTI is extreme
+
 58% are already delinquent (Charged Off + Late 31-120 days + Default + Late 16-30 days)
 
 
