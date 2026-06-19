@@ -21,7 +21,7 @@ Here are the complete insights from your Credit Risk Analysis Report across all 
 The portfolio covers 1,00,000 loans worth ₹3,530 Crore with an average loan size of ₹3.53 lakh. The overall default rate is 23.13% meaning roughly 1 in 4 borrowers defaulted. Average credit score is 674 and average interest rate is 16.73%.
 
 
-## Insight 1 — Credit Score is the Strongest Default Predictor
+## Insight 1  Credit Score is the Strongest Default 
 
 | Credit Band | Default Rate |
 
@@ -33,9 +33,9 @@ The portfolio covers 1,00,000 loans worth ₹3,530 Crore with an average loan si
 
 | Excellent (720+) | 9.77% |
 
-Key finding: Poor credit borrowers default at 6× the rate of Excellent credit borrowers. This is the single most predictive variable in the portfolio. Any applicant below 580 should be flagged immediately.
+Key finding: Poor credit borrowers default at 6× the rate of Excellent credit borrowers. Any applicant below 580 should be flagged immediately.
 
-## Insight 2 — DTI Ratio is a Critical Threshold Indicator
+## Insight 2  DTI Ratio is a Critical Threshold Indicator
 
 | DTI Band | Default Rate |
 
@@ -51,7 +51,7 @@ Key finding: Poor credit borrowers default at 6× the rate of Excellent credit b
 
 Key finding: There is a sharp cliff at DTI = 50.8%. Below 50% the default rate is under 14%. Above 50% it triples to over 30%. This 50% threshold should be a hard underwriting rule applicants.
 
-## Insight 3 — Employment Type Reveals Hidden Risk
+## Insight 3  Employment Type Reveals Hidden Risk
 
 | Employment Type | Default Rate | Avg Income |
 
@@ -67,7 +67,7 @@ Key finding: There is a sharp cliff at DTI = 50.8%. Below 50% the default rate i
 
 Key finding: Freelancers default at the highest rate despite being the lowest income group. Government employees are the most reliable segment. Business Owners earn the most but still carry moderate risk .
 
-## Insight 4 — Loan Purpose Risk is Narrow but Meaningful
+## Insight 4  Loan Purpose Risk is Narrow but Meaningful
 
 | Loan Purpose | Default Rate |
 
@@ -84,7 +84,7 @@ Key finding: Freelancers default at the highest rate despite being the lowest in
 Key finding: Debt Consolidation carries the highest default risk borrowers already in financial stress are consolidating existing debt, making them inherently more vulnerable. The spread is narrow (22.89%–23.39%) .
 
 
-## Insight 5 — Loan Grade Does Not Differentiate Risk 
+## Insight 5 Loan Grade Does Not Differentiate Risk 
 
 | Loan Grade | Applications | Default Rate |
 
@@ -103,7 +103,7 @@ Key finding: Debt Consolidation carries the highest default risk borrowers alrea
 Key finding: Default rates across all loan grades are nearly identical (22–23.5%). Grade F borrowers are defaulting at almost the same rate as Grade A this indicates the loan grading model is not working effectively and needs to be recalibrated. A well-functioning grade system should show a clear gradient from A to F.
 
 
-## Insight 6 — Geography: East and North India are Higher Risk
+## Insight 6 Geography: East and North India are Higher Risk
 
 | Top 3 High-Risk States | Default Rate |
 
@@ -128,7 +128,7 @@ Key finding: Default rates across all loan grades are nearly identical (22–23.
 Key finding: East and North Indian states show higher default rates. Southern states (Andhra Pradesh, Kerala, Karnataka) are comparatively safer. The spread is only 1.55 percentage points geography is a weak predictor compared to credit score and DTI.
 
 
-## Insight 7 — Risk Tier Summary (Most Actionable)
+## Insight 7 Risk Tier Summary (Most Actionable)
 
 | Risk Tier | Applications | Default Rate | Avg Loan |
 
@@ -143,7 +143,7 @@ Key finding: East and North Indian states show higher default rates. Southern st
 Key finding: The 7,296 High Risk customers are defaulting at nearly 60%  approving these loans is generating massive losses. Rejecting this segment entirely would cut the portfolio default rate from 23.13% to approximately 18%.
 
 
-## Insight 8 — High Risk Customer Profile (100 deep-dive records)
+## Insight 8 High Risk Customer Profile (100 deep-dive records)
 
 From the 100 high-risk customer records:
 
