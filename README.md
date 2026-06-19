@@ -153,7 +153,7 @@ Average DTI: 0.997 (Extreme: nearly 100% of income goes to debt)
 
 Average default probability: 55.9%
 
-Average loan amount: ₹18.9 lakh : these are large ticket loans going to the riskiest borrowers
+Average loan amount: ₹18.9 lakh : these are large ticket loans going to the high risk borrowers
 
 
 
