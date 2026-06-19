@@ -16,7 +16,7 @@ Financial ratios — debt_to_income, loan_to_income, emi_to_income, default_prob
 Here are the complete insights from your Credit Risk Analysis Report across all 9 sheets:
 
 
-## Portfolio Overview
+##  Overview
 
 The portfolio covers 1,00,000 loans worth ₹3,530 Crore with an average loan size of ₹3.53 lakh. The overall default rate is 23.13% meaning roughly 1 in 4 borrowers defaulted. Average credit score is 674 and average interest rate is 16.73%.
 
@@ -24,9 +24,13 @@ The portfolio covers 1,00,000 loans worth ₹3,530 Crore with an average loan si
 ## Insight 1 — Credit Score is the Strongest Default Predictor
 
 | Credit Band | Default Rate |
+
 | Poor (< 580) | 59.50 % |
+
 | Fair (580–640) | 27.89 % |
+
 | Good (640–720) | 19.39 % |
+
 | Excellent (720+) | 9.77% |
 
 Key finding: Poor credit borrowers default at 6× the rate of Excellent credit borrowers. This is the single most predictive variable in the portfolio. Any applicant below 580 should be flagged immediately.
