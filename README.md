@@ -1,4 +1,4 @@
-Dataset Description  : 
+Dataset Description :
 
 Applicant info — loan_id, application_date, age, gender, marital_status, education, state, city_tier.
 
