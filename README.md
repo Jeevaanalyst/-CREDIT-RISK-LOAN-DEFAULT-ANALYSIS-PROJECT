@@ -84,7 +84,7 @@ Key finding: Freelancers default at the highest rate despite being the lowest in
 Key finding: Debt Consolidation carries the highest default risk borrowers already in financial stress are consolidating existing debt, making them inherently more vulnerable. The spread is narrow (22.89%–23.39%) .
 
 
-## Insight 5 — Loan Grade Does Not Differentiate Risk (Red Flag)
+## Insight 5 — Loan Grade Does Not Differentiate Risk 
 
 | Loan Grade | Applications | Default Rate |
 
