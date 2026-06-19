@@ -155,11 +155,6 @@ Average default probability: 55.9%
 
 Average loan amount: ₹18.9 lakh : these are large ticket loans going to the riskiest borrowers
 
-73% are in Mortgage or Rent : no owned assets as buffer
-
-47% are Salaried : even stable employment doesn't save them when DTI is extreme
-
-58% are already delinquent (Charged Off + Late 31-120 days + Default + Late 16-30 days)
 
 
 ## Top 4 Business Recommendations
